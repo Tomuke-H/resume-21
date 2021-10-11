@@ -1,7 +1,6 @@
 import Card from './components/Card';
 import axios from 'axios';
 import { useState, useEffect } from 'react'
-import { x } from './components/Dummy'
 
 var options = {
   method: 'GET',
