@@ -33,13 +33,13 @@ function App() {
   return (
     <div style={{maxWidth: '1000px', margin:' 10px auto'}}>
       <div style={styles.columnContainer}>
-        <Card header="About Me" flex={1}>
+        <Card header="Projects" flex={1}>
           <p>Hello World!</p>
         </Card>
-        <Card header="About Me" flex={2}>
+        <Card header="Beliefs" flex={2}>
           <p>Hello World!</p>
         </Card>
-        <Card header="About Me" flex={1}>
+        <Card header="Creed" flex={1}>
           <p>Hello World!</p>
         </Card>
       </div> 
